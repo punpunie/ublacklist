@@ -42,6 +42,8 @@ The blacklists featured on this page are user-generated content and are not endo
   - "Hides (most) leftwing media outlets"
 - [Rightwing Media blacklist](https://github.com/RubenKelevra/ublacklist_rightwing_media) by [RubenKelevra](https://github.com/RubenKelevra)
   - "Hides (most) rightwing media outlets"
+- [Israeli News Blocklist](https://github.com/punpunie/ilNewsBlocklist) by [bun](https://github.com/punpunie)
+  - "blocklist of israeli news websites"
 
 ## Specific sites {#specific-sites}
 
@@ -65,7 +67,7 @@ The blacklists featured on this page are user-generated content and are not endo
 
 ## Gaming {#gaming}
 
-- [Safebrowsing for Minecrafters 🛡️⛏️](https://codeberg.org/legendary_creeper/safebrowsing-for-minecrafters) by [Legendary Creeper](https://craftodon.social/@legendary_creeper)
+- [Safebrowsing for Minecrafters ](https://codeberg.org/legendary_creeper/safebrowsing-for-minecrafters) by [Legendary Creeper](https://craftodon.social/@legendary_creeper)
   - "This filterlist was crafted to help users and creators in avoiding malicious Minecraft-related websites, including, but not limited to, those distributing malicious and illegal copies of the game or Mods, repost sites which monetize stolen content from creators, and sites impersonating trusted websites like Minecraft.net, CurseForge, or Mcpedl.com."
 
 ## Chinese {#chinese}
